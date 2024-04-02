@@ -10,7 +10,7 @@ All the emplates, layouts and menus that can be found within the Free CSS.com we
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
-- [ ] Jupiter
+- [x] Jupiter
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
